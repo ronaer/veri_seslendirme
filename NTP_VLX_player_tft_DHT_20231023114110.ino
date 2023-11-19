@@ -255,7 +255,7 @@ void yaz() {
   // tft.print(sec);
 }
 
-// BME280 Sensörden veri okuma ve okunan verinin tft ekrana yazdırılması...
+// Sensörden veri okuma ve okunan verinin tft ekrana yazdırılması...
 void read_data() {
   temp = dht.readTemperature();
   hum = dht.readHumidity();
