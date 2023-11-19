@@ -3,7 +3,8 @@
  * Belirli bir mesafeden karşısında durulduğunda sesli olarak zaman, takvim, sıcaklık, nem bildirimi...
  * ESP8266, ST7735s 128x160 1.8" TFT LCD, GYBMEP / DHT11, dfplayer, NTP clock...
  * Derleme ve karta yükleme öncesi, tüm kütüphaneler arduino ide'sine yüklenmiş olmalıdır...
- * YouTube: 
+ * YouTube: https://www.youtube.com/watch?v=GlaglWVU73U&t=337s
+ * PCB: https://www.pcbway.com/project/shareproject/Data_to_Sound_4cf24a5e.html
  * ESP8266 Bağlantılar (Pin Etiketleri ile):  
       ST735:              DfPlayerMini:               VL53L0x:          BME280:         (DHT11)
       -----------------------------------------------------------------------------------------------
